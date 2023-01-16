@@ -3,3 +3,12 @@ Jak uruchomić jupyter?
 https://realpython.com/jupyter-notebook-introduction/
 
 Wystarczy przeczytać pierwszy rozdział - Getting Up and Running With Jupyter Notebook
+
+Instalacja jupter:
+pip install jupyter
+
+Uruchomienie jupyter:
+jupyter notebook
+
+Zabicie juptera:
+ctrl+c (w terminalu)

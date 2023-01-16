@@ -1,3 +1,4 @@
+# LITERAŁY
 # całkowitoliczbowy (integer)
 print(3)
 print(10)
@@ -22,3 +23,8 @@ print(True)
 
 # pusty (none)
 print(None)
+
+
+# Funkcja type
+print(type(3))
+print(type("ala ma kota"))

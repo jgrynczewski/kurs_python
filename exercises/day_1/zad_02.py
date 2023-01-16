@@ -1,4 +1,4 @@
-# Zad02 Operatory i obliczenia
+# zad 2 Operatory i obliczenia
 #
 # Oblicz:
 # 1 dodać 2 dodać 5 odjąć (2 razy 2)
