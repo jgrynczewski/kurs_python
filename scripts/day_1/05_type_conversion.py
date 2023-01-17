@@ -17,7 +17,8 @@ print(text + stringify_age)
 print(str(-4562356643.2414135))
 
 print(int("45"))
-print(int("ala ma kota"))
+print(int("ala ma kota"))  # ta linijka wyrzuca błąd.
+# Nie da się zrzutować napisu "ala ma kota" na int.
 
 
 
