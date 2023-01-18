@@ -1,7 +1,7 @@
 # Zad 11 pętle
 
-# Napisz program, który wyświetli użytkownikowi wszystkie liczby parzyste mniejsze
-# od zadanej przez użytkownika liczby. Przykład użycia
+# Napisz program, który wyświetli użytkownikowi wszystkie liczby parzyste
+# mniejsze od zadanej przez użytkownika liczby. Przykład użycia
 
 # >>> Podaj liczbę: 10
 # Liczby parzyste mniejsze od liczby 10 to:

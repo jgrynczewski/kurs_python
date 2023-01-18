@@ -2,6 +2,7 @@
 
 # Napisz funkcję, która na wejściu przyjmuje promień koła,
 # a na wyjściu zwróci pole koła o takim promieniu.
+# pole = pi razy r do kwadratu
 
 # Wywołanie
 # res = get_area(10)

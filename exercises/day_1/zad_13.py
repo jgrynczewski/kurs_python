@@ -11,3 +11,11 @@
 
 # hint: Jak wyjść z nieskończonej pęli?
 # Sygnał przerwania można wysłać z poziomu terminala przy pomocy skrótu klawiszowego ctrl+c
+
+while True:
+    res = input("Wprowadź wartość: ")
+
+    if res == 'blank':
+        continue
+
+    print("Wprowadzono wartość: " + res)
