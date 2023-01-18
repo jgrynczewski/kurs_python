@@ -25,3 +25,20 @@ a = "e"
 
 if is_vowel(a):
     print("Cześć, samogłosko!")
+
+
+# Wersja uproszczona po poznaniu list i operatora członkostwo
+# (memebership operator)
+
+def is_vowel2(letter):
+    vowels = ['a', 'e', 'i', 'o', 'u', 'y']
+
+    if letter in vowels:
+        return True
+    else:
+        return False
+
+
+# ciekawostka
+def is_vowel3(letter):
+    return letter in 'aeiouyAEIOUY'
