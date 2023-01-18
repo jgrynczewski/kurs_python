@@ -6,3 +6,22 @@
 
 # is_vowel("y") -> True
 # is_vowel("c") -> False
+
+def is_vowel(letter):
+    if (
+            letter == "a" or
+            letter == "e" or
+            letter == "i" or
+            letter == "o" or
+            letter == "u" or
+            letter == "y"
+    ):
+        return True
+    else:
+        return False
+
+
+a = "e"
+
+if is_vowel(a):
+    print("Cześć, samogłosko!")
