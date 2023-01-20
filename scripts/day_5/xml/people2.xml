@@ -1,0 +1,20 @@
+<group launched="2023-01-20">
+	<person id="200" newarrt="Hello">
+		<name>Jan Kowalski</name>
+		<age>20</age>
+		<weight>90</weight>
+		<height>188</height>
+	</person>
+	<person id="2">
+		<name>Jane Doe</name>
+		<age>45</age>
+		<weight>68</weight>
+		<height>170</height>
+	</person>
+	<person id="3">
+		<name>John Q. Public</name>
+		<age>33</age>
+		<weight>88</weight>
+		<height>182</height>
+	</person>
+<person>Ala Kowalska</person><person>Ala Kowalska</person><person>John Doe</person></group>
